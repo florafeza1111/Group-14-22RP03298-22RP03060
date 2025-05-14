@@ -20,4 +20,3 @@ Structure
 'menu.php' – Manages user navigation # which was done by my partner Elias(cracker38)
 'sms.php' – Sends messages via Africa’s Talking
 'util.php' – Database and helper functions  # which was done by my partner Elias(cracker38)
-==========================© Copyright ISHINGIRO AI System. All Rights Reserved================
