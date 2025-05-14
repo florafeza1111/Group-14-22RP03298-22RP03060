@@ -15,6 +15,8 @@ Notifies counselors for follow-up
 Shares hospital info
 Structure
 'ussd.php' – Handles USSD sessions
+'dbconnection.php' For database connection     #done by my partner Elias(cracker38)
+'ishingiro_ai.sql'  which structure the database   # done by my partner Elias(cracker38)
 'menu.php' – Manages user navigation # which was done by my partner Elias(cracker38)
 'sms.php' – Sends messages via Africa’s Talking
 'util.php' – Database and helper functions  # which was done by my partner Elias(cracker38)
